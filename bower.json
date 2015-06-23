@@ -1,0 +1,10 @@
+{
+  "name": "Backbone4You",
+  "version": "0.0.1",
+  "homepage": "https://github.com/BackboneJsBrasil/Backbone4You",
+  "license": "MIT",
+  "dependencies": {
+    "backbone": "*",
+    "requirejs": "*"
+  }
+}

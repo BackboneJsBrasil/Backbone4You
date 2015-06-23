@@ -1,0 +1,14 @@
+{
+  "name": "Backbone4You",
+  "description": "Backbone4You",
+  "version": "0.0.1",
+  "title": "Backbone4You",
+  "devDependencies": {
+
+  },
+  "engines": {
+    "node": "*",
+    "npm": "*"
+  },
+  "dependencies": {}
+}
